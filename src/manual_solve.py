@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+
+###### NAME: JOSHUA O'CURRY
+######   ID: 20235838
+
+
 import os, sys
 import json
 import numpy as np
