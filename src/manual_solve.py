@@ -340,7 +340,7 @@ def solve_a8d7556c(x):
 
     return x
 
-def solvea_78176bb(x):
+def solve_a78176bb(x):
     
         # TRANSFORMATION AND APPROACH
 # The transforamtion fo this task is:
